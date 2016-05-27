@@ -1,5 +1,5 @@
 # Cocke-Younger-Kasami (CYK)
-O programa foi desenvolvido em JAVA
+O programa foi desenvolvido em JAVA para a disciplina de Linguagens Formais e Automâtos da Universidade Federal de Lavras.
 
 	Para compilar							  
 		javac *java						  
@@ -9,7 +9,7 @@ O programa foi desenvolvido em JAVA
 
 Para rodar um arquivo teste
 	Exemplo: L = {(a^n)(b^n)(c^m) | n,m>=1}
-	arquivo entrada: glc.txt\n
+	arquivo entrada: glc.txt
 	palavra entrada: aaabbbc
 	arquivo saida:   saida.txt
 
