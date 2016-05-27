@@ -1,8 +1,9 @@
+# Cocke-Younger-Kasami (CYK)
 O programa foi desenvolvido em JAVA
 ###########################################################################
 #	Para compilar							  #
 #		javac *java						  #
-#	Para executar(modo genérico)					  #
+#	Para executar(modo genÃ©rico)					  #
 #		java cyk <arquivo de entrada> <palavra> <arquivo saida>   #
 ###########################################################################
 
