@@ -1,11 +1,11 @@
 # Cocke-Younger-Kasami (CYK)
 O programa foi desenvolvido em JAVA
-###########################################################################
-#	Para compilar							  #
-#		javac *java						  #
-#	Para executar(modo genérico)					  #
-#		java cyk <arquivo de entrada> <palavra> <arquivo saida>   #
-###########################################################################
+
+	Para compilar							  
+		javac *java						  
+	Para executar(modo genérico)					  
+		java cyk <arquivo de entrada> <palavra> <arquivo saida>   
+
 
 Para rodar um arquivo teste
 Exemplo: L = {(a^n)(b^n)(c^m) | n,m>=1}
