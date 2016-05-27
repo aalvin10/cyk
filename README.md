@@ -9,7 +9,7 @@ O programa foi desenvolvido em JAVA
 
 Para rodar um arquivo teste
 	Exemplo: L = {(a^n)(b^n)(c^m) | n,m>=1}
-	arquivo entrada: glc.txt
+	arquivo entrada: glc.txt\n
 	palavra entrada: aaabbbc
 	arquivo saida:   saida.txt
 
