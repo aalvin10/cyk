@@ -8,10 +8,10 @@ O programa foi desenvolvido em JAVA
 
 
 Para rodar um arquivo teste
-Exemplo: L = {(a^n)(b^n)(c^m) | n,m>=1}
-	-> arquivo entrada: glc.txt
-	-> palavra entrada: aaabbbc
-	-> arquivo saida:   saida.txt
+	Exemplo: L = {(a^n)(b^n)(c^m) | n,m>=1}
+	arquivo entrada: glc.txt
+	palavra entrada: aaabbbc
+	arquivo saida:   saida.txt
 
 	Para executar:
 	java cyk glc.txt aaabbbc saida.txt
